@@ -1,4 +1,4 @@
-Assignment-1 (06-07-2021):
+Assignment-1 (18-07-2022):
 1.Write a C program to swap the content of 2 variables entered through the command line using function and pointer.
 
 
